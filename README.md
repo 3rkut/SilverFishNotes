@@ -12,7 +12,7 @@ features of Cobalt Strike. The following image shows the Cobalt Strike beacon sh
 emulation results, fronted domain, and actual host value. The chosen mallable C2 profile [22]
 artifacts can easily be identified.
 
-https://github.com/threatexpress/malleable-c2/blob/master/jquery-c2.4.3.profile
+- https://github.com/threatexpress/malleable-c2/blob/master/jquery-c2.4.3.profile
 
 - msbuild.exe utility and .csproj files are frequently used to load shellcode in
 red teaming engagements.
@@ -63,7 +63,9 @@ https://docs.microsoft.com/en-us/windows/win32/amsi/how-amsi-helps
 https://attack.mitre.org/techniques/T1090/004/
 
 
+## Reference: 
 
+- https://www.prodaft.com/m/uploads/SilverFish_TLPWHITE.pdf
 
 
 
