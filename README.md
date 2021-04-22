@@ -1,7 +1,7 @@
 # This is my notes about the SilverFish(UNC2452) Group
 
 
-## The SilverFish group uses publicly available red teaming tools such as Empire, cobalt strike, koadic loaders, and, in several cases PowerSploit and Mimikatz post exploitation Powershell scripts. Additionally, there are lots of specially crafted Powershell, BAT, CSPROJ, JavaScript and HTA files that are mainly used for enumeration and data exfiltration.
+## The SilverFish Group uses publicly available red teaming tools such as Empire, cobalt strike, koadic loaders, and, in several cases PowerSploit and Mimikatz post exploitation Powershell scripts. Additionally, there are lots of specially crafted Powershell, BAT, CSPROJ, JavaScript and HTA files that are mainly used for enumeration and data exfiltration.
 
 ## TOOLS:
 
